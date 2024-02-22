@@ -9,6 +9,8 @@ em uma lista (Livraria) que está armazenada dentro de uma variável
 ## Back end
 - Python
 - Flask
+## Front end
+- Postman
 
 # Autor
 
