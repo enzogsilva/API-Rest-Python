@@ -1,4 +1,4 @@
-#  API de Requisições em Livaria
+#  API de Requisições em Livraria
 
 # Sobre o projeto
 
