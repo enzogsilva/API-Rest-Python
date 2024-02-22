@@ -3,7 +3,7 @@
 # Sobre o projeto
 
 Criação de uma API em Python que realiza as Requisições GET, POST, PUT e DELETE 
-em uma lista (Livraria) que está armazenada dentro de uma variável
+em uma lista (Livraria) que está armazenada dentro de uma variável.
 
 # Tecnologias utilizadas
 ## Back end
